@@ -2,7 +2,7 @@
 
 t-factory-utils is a utility library and dto for the t-Factory-Server and t-Factory-Agent java projects.
 This project is usefull if your are going to recompile the projects listed below. 
-If your just want to try the tFactory server, check out <https://github.com/tfactory>
+If you just want to try the tFactory server, check out <https://github.com/tfactory>
 
 ## Table of contents
 * [Creator](#creator)
