@@ -1,4 +1,5 @@
 # t-factory-utils
+[![Gitter](https://img.shields.io/gitter/room/tfactory/tfactory.svg?style=flat-square)](https://gitter.im/tfactory/Lobby)
 
 t-factory-utils is a utility library and dto for the t-Factory-Server and t-Factory-Agent java projects.
 This project is usefull if your are going to recompile the projects listed below. 
